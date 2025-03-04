@@ -1,5 +1,13 @@
 GitHub Özellikleri
+<<<<<<< HEAD
 1-Yapılan projelerimizi cihaz bağımsız ulaşma imkanı.
 2-Yapılan daha önceki projelere destek verme fırsatı.
 3-Ekip çalışması
 4-Versiyon kontrol ve Git desteği
+=======
+3-İşe alımlarda güçlü profil oluşturma.
+2-Yapılan daha önceki projelere destek verme fırsatı.
+1-Yapılan projelerimizi cihaz bağımsız ulaşma imkanı.
+4-Ekip çalışması
+5-Versiyon kontrol ve Git desteği
+>>>>>>> 76a14ed4269c5ec1bfc5874b15182f8c0076ea1a
