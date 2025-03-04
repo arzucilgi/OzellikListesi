@@ -3,3 +3,4 @@ GitHub Özellikleri
 2-Yapılan daha önceki projelere destek verme fırsatı.
 3-İşe alımlarda güçlü profil oluşturma.
 4-Ekip çalışması
+5-Versiyon kontrol ve Git desteği
